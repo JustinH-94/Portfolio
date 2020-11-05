@@ -1,0 +1,14 @@
+C:\workspace\GitHub\justin\Algorithms\CodeExampleAndPortfolio\CodeExample\CodeExample\bin\Debug\CodeExample.exe.config
+C:\workspace\GitHub\justin\Algorithms\CodeExampleAndPortfolio\CodeExample\CodeExample\bin\Debug\CodeExample.exe
+C:\workspace\GitHub\justin\Algorithms\CodeExampleAndPortfolio\CodeExample\CodeExample\bin\Debug\CodeExample.pdb
+C:\workspace\GitHub\justin\Algorithms\CodeExampleAndPortfolio\CodeExample\CodeExample\obj\Debug\CodeExample.csprojAssemblyReference.cache
+C:\workspace\GitHub\justin\Algorithms\CodeExampleAndPortfolio\CodeExample\CodeExample\obj\Debug\CodeExample.csproj.CoreCompileInputs.cache
+C:\workspace\GitHub\justin\Algorithms\CodeExampleAndPortfolio\CodeExample\CodeExample\obj\Debug\CodeExample.exe
+C:\workspace\GitHub\justin\Algorithms\CodeExampleAndPortfolio\CodeExample\CodeExample\obj\Debug\CodeExample.pdb
+C:\workspace\GitHub\justin\Algorithms\Portfolio\Big O Notation\CodeExample\bin\Debug\CodeExample.exe.config
+C:\workspace\GitHub\justin\Algorithms\Portfolio\Big O Notation\CodeExample\bin\Debug\CodeExample.exe
+C:\workspace\GitHub\justin\Algorithms\Portfolio\Big O Notation\CodeExample\bin\Debug\CodeExample.pdb
+C:\workspace\GitHub\justin\Algorithms\Portfolio\Big O Notation\CodeExample\obj\Debug\CodeExample.csprojAssemblyReference.cache
+C:\workspace\GitHub\justin\Algorithms\Portfolio\Big O Notation\CodeExample\obj\Debug\CodeExample.csproj.CoreCompileInputs.cache
+C:\workspace\GitHub\justin\Algorithms\Portfolio\Big O Notation\CodeExample\obj\Debug\CodeExample.exe
+C:\workspace\GitHub\justin\Algorithms\Portfolio\Big O Notation\CodeExample\obj\Debug\CodeExample.pdb
